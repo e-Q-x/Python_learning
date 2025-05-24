@@ -1,1 +1,2 @@
-test sync_comit git
+tets =  25
+#теста комита с линукса
