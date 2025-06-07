@@ -7,5 +7,7 @@ texT = len(text)
 print(texT)
 if texT > 10:
     print("текстк большой")
-elif texT < 10:
+elif texT == 10:
+    print('текст нормальный')
+else:
     print('текст маленький')
